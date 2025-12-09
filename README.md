@@ -1,13 +1,11 @@
-# Automated Sales Reporting System
-Full automation pipeline.
-# Data Analyst Automation Portfolio
+
 
 Welcome to my Automation Projects Portfolio.  
-These projects showcase how I automate real-world data workflows using Python, SQL, Power BI, and Power Automate.
+These project showcase how I automate real-world data workflows using Python, SQL, Power BI, and Power Automate.
 
 ---
 
-## 🚀 Featured Project: Automated Sales Reporting System
+## Project: Automated Sales Reporting System
 **Tech Stack:** Python, Pandas, SQL, Power BI, Power Automate
 
 ### 🔹 Features
